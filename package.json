@@ -1,0 +1,15 @@
+{
+  "name": "between-everything",
+  "main": "./lib/between-everything",
+  "version": "0.0.0",
+  "description": "Select text between every symbols pair you want.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/between-everything",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
